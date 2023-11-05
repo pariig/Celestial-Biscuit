@@ -1,0 +1,55 @@
+<!--Hey I am Pari Gupta, CBID-CB23176 and I have made a basic website on Mental Health, its symptoms and some content to be referred to prevent it using html language for now and in future I am looking forward to use css and js to add Designs to it.-->
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>MENTAL health</title>
+
+
+    </head>
+    <body>
+        <p>Stellar Challange-Week 1 : Introduction to the Internet and Web Development</p>
+        <h1 align="center">WHAT IS MENTAL HEALTH?</h1>
+        <h2><u>MENTAL HEALTH</u></h2>
+        <p>It is the complete physical, mental and social well being and not merely the absence of disease of infirmity.
+
+        </p>
+        <h2>A Few Facts </h2>
+        <ul>
+            <li>One in 5 people take time off work due to mental health </li>
+            <li>92% of employees feel that mental health first aid and response is a very important issue</li>
+            <li>While an alarming 48% of employees feel their workplace is a mentally unsafe place to work.</li>
+
+        </ul> 
+            <p>With this growing issue becoming a real challenge for employers, mental health support and recovery costs Australian’s $10.6B in 2018-19 which has been increasing by 1.5% each year since 2014. ref – headsup.org.au & aihw.gov.au</p>
+        </p> 
+        <p>It is definitely NOT easy being a teenager!
+            Sometimes it's tough to avoid feeling stressed, and pressure can build up in many areas in life(socially, at home and while making big life decisions).</p>
+
+        <p><i>   Worring about these pressures is NORMAL But feeling Very sad,hopeless or worthless might be a sign of a mental health problem.</i></p>
+        <p> WARNING SIGNALS OF POOR MENTAL HEALTH</p>
+        <ul>
+            <li>are you always worrying? 
+            </li>
+            <li>Are you unable to concentrate because of unrecognised reasons?</li>
+            <li>Are you continually unhappy without justified cause?</li>
+            <li>Do you lose temper easily and often?</li>
+            <li>Do you continually dislike to be with people?</li>
+            <li>Do you have wide fluctuations in your mood?</li>
+        
+            <li>Are you troubled by regular insomnia?</li>
+        
+        </ul>
+        <img src="mental-health-H5JWX7.jpg" alt="Mental Health" width='8' height='34' >
+        <h2> Here are some of the podcasts to refer!</h2>
+        <ol type="1">
+            <li>   <a href="   https://youtu.be/GqaHQeW7GrA?si=qYYetr7FBJlmbH5Q">BeerBiceps</a>   <br>
+            </li>
+            <li><a href="https://youtu.be/ufQEqi4LUZ4?si=_kfkUjvpWIolRqEN">MelRobins</a> <br>  </li>
+            <li><a href="https://youtu.be/mnD0Kc1PzIo?si=412dURCXwTU0O_T">JayShetty</a> <br>  </li>
+           <li><a href="https://youtu.be/wOGqlVqyvCM?si=-PP1AMsBhlup1yHQ">Sadhguru</a> </li> 
+    
+        </ol>    
+        <h3>-Pari Gupta, CBID-CB23176</h3>
+    </body>
